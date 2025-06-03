@@ -1,0 +1,5 @@
+outs:
+- md5: 761a199d0e6ad464372e26df1c913890
+  size: 37
+  hash: md5
+  path: random.txt
