@@ -1,0 +1,6 @@
+outs:
+- md5: 1aa729e011ddf1f7bacf448269a3f8f1.dir
+  size: 31686
+  nfiles: 42
+  hash: md5
+  path: zomato
